@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-image: url("../images/bgi.jpg");
+    background-size: cover;
+    background-position: fixed;
+}
+img{
+    margin-left: 100px;
+}
+.nav-item{
+    border: 1px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 9px;
+}
+.nav-item > a:hover{
+    background-color: teal;
+    color: black;
+}
+.textall{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text{
+    list-style-type: square;
+}
+.formlog{
+    background-color: rgb(104, 159, 159);
+    border: 1px solid beige;
+    border-radius: 10px;
+    width: 70%;
+   
+}
+#log_b{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
